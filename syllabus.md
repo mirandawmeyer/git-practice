@@ -18,3 +18,5 @@ Course objectives: yadda da boo
 ## Links
 [The CUNY Graduate Center](gc.cuny.edu/Home)  
 [CUNY Graduate Film Studies](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Certificate-Programs/Film-Studies)  
+
+Bon voyage a la frontiere finale!
